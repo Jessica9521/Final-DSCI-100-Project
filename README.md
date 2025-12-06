@@ -5,7 +5,6 @@ Recruiting and retaining active users is critical for running online gaming expe
 Primary Question
 Can a player’s experience level, playing time, and age predict whether a player subscribes to the game-related newsletter?
 Datasets
-Two CSV files are provided and are linkable via the primary key player_id.
+One CSV file is provided and is linkable via the primary key player_id.
 1. players.csv – one row per unique participant.
-2. sessions.csv – one row per play session; multiple sessions per player.
-After importing, the merged file contains 1,842 players and 9,407 sessions collected between 2024-08-01 and 2024-11-30.
+After importing, the merged file contains 1,842 players. The data is collected between 2024-08-01 and 2024-11-30.
